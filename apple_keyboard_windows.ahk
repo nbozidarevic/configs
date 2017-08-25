@@ -7,16 +7,16 @@
 
 #s::^s
 #a::^a
-#c::^c
-#v::^v
-#x::^x
+#c::Send ^c
+#v::Send ^v
+#x::Send ^x
 #o::^o
 #f::Send ^f
 #r::^r
 #z::^z
 #y::^y
 #t::^t
-#w::^w
+#w::Send ^w
 #l::^l
 #/::^/
 
